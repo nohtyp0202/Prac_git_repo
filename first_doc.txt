@@ -1,5 +1,5 @@
 Practicing GIT features
 
 
-Remove old text and add new text ..
-Adding some changes to this file to track this in git....
+deleted old comment adding new
+
